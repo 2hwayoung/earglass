@@ -2,7 +2,8 @@
 
 ## 서비스 소개
 
-- 농인을 위한 자막 서비스
+- 크라우드 소싱 데이터 수집 사이트 개발![image](https://user-images.githubusercontent.com/69628269/126735886-deb23244-7c6b-4c71-81ba-768563a3538b.png)
+
 
 ## 문서
 
