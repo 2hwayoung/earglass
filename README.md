@@ -31,7 +31,7 @@
 ### DB
 - `services/`: 데이터베이스에서 데이터를 읽어오고 쓰는 기능 모듈
 - `database/`: 데이터베이스 연결 관리 모듈
-- `query/`: 참고할 수 있는 쿼리 모음(Stored Procedure와 Trigger를 최대한 활용)
+- `query/`: 참고할 수 있는 쿼리 모음(View, Event, Stored Procedure, Trigger등 SQL 고급 기능을 최대한 활용)
 
 ### Web
 - `templates/`: 프론트엔드 웹 페이지 모듈(flask template folder로 사용됨) 
